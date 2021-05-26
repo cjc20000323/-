@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="边缘提取:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="边缘提取.jar">
+      <element id="module-output" name="边缘提取" />
+    </root>
+  </artifact>
+</component>
